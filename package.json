@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-profile-info-api",
+  "version": "1.0.0",
+  "description": "A simple API that requests and parses basic public LinkedIn profile data in JSON format from a given username",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+  },
+  "author": "Tancredi Trugenberger",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "cli-color": "^1.0.0",
+    "config": "^1.16.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "moment": "^2.10.6",
+    "request": "^2.62.0"
+  }
+}
