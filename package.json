@@ -4,7 +4,7 @@
   "description": "A simple API that requests and parses basic public LinkedIn profile data in JSON format from a given username",
   "main": "index.js",
   "scripts": {
-    "start": "node lib/index.js",
+    "start": "node lib/index.js"
   },
   "author": "Tancredi Trugenberger",
   "license": "MIT",
