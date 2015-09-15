@@ -1,3 +1,4 @@
 {
-    "port" : 7000
+    "port"     : 7000,
+    "proxyUrl" : null
 }

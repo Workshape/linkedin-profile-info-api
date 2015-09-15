@@ -1,3 +1,4 @@
 {
-    "port" : "PORT"
+    "port"     : "PORT",
+    "proxyUrl" : "PROXY_URL"
 }

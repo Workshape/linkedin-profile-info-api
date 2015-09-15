@@ -21,6 +21,7 @@
 Environment variables used by the app
 
 * `PORT - ` - Port to expose the API server
+* `PROXY_URL` - Proxy URL for outbound requests
 
 ## Example Response
 
